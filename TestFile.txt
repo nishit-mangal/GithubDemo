@@ -1,3 +1,3 @@
 Hello this is the first commit 
-Author - Nishi Mangal
+Author - Nishit Mangal
 This is second commit in branch 2
